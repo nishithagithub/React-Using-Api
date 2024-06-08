@@ -1,0 +1,15 @@
+/* src/App.css */
+@media (max-width: 600px) {
+  .MuiContainer-root {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+  .MuiPaper-root {
+    padding: 16px;
+  }
+
+  .MuiTextField-root {
+    margin-bottom: 16px;
+  }
+}
